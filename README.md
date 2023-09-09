@@ -30,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omerkilic-0&" alt="omerkilic-0" /></p>
 
-![snake gif](https://github.com/omerkilic-0/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/CagatayAkkas/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
